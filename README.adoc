@@ -1,3 +1,17 @@
 = neb wiki
+:icons: font
+:toc:
+
 
 testing...
+
+== First section
+
+== Second section
+
+
+icon:heart[2x]
+
+NOTE: I am done
+
+TIP: Be prepared
